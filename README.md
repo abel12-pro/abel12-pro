@@ -1,13 +1,6 @@
 ### Hi there 👋
+I'm a passionate Full Stack developer with expertise in building scalable and performant web applications. With 1 years of experience, I have a strong foundation in both front-end and back-end technologies, enabling me to deliver end-to-end solutions.
 
-<!--
-**abel12-pro/abel12-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on HTML,CSS...
-- 🌱 I’m currently learning microverse
+- 🔭 I’m currently working on HTML,CSS,Javascript
 - 👯 I’m looking to collaborate on project development 
 - 📫 How to reach me: abelu2013@gmail.com
-- ⚡ Fun fact: It is me!
--->
